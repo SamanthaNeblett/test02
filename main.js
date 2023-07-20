@@ -1,1 +1,1 @@
-consle.log("Testing");
+console.log("Testing");
